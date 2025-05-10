@@ -27,11 +27,11 @@ Venue details & Toss Winner : Detailed and accurate information about the match 
 
 <img src="p2.png" alt="Match Analysis" width="500"/>
 
-Player Bowling Carrer Analysis: Detailed Analysis of each player bowling carrer across all the Formats.
+Player Bowling Career Analysis: Detailed Analysis of each player bowling carrer across all the Formats.
 
 <img src="p5.png" alt="Match Analysis" width="500"/>
 
-Player Batting Carrer Analysis: Detailed Analysis of each player batting carrer across all the Formats.
+Player Batting Career Analysis: Detailed Analysis of each player batting carrer across all the Formats.
 
 <img src="p4.png" alt="Match Analysis" width="500"/>
 
