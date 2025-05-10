@@ -5,21 +5,33 @@ This Power BI project delivers insightful visual analytics for the ICC Men's T20
 
 📊 Features
 
-Overview Dashboard: Tournament summary, key highlights, top performers.
+Player Generic summary : Get Generic Summary of the Player Through Search Bar,also as a tooltip when you hover over the player image.
 
-Team Analytics: Win/loss record, batting and bowling strengths, performance trends.
+<img src="p3.png" alt="Match Analysis" width="500"/>
 
-Player Insights: Runs scored, wickets taken, strike rates, and economy rates.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img src="p1.png" alt="Match Analysis" width="500"/>
+
+Player Whole Career Summary : Get Relevant Inforation about the Player's Debut Match and His Last Match Along With dates.
+
+<img src="p6.png" alt="Match Analysis" width="500"/>
 
 Match-by-Match Breakdown: Detailed analysis of each match with filters by team, date, venue.
 
 <img src="p1.png" alt="Match Analysis" width="500"/>
 
-Venue details & Toss Winner : Detailed and accurate information about the match venue,and toss winner and their decision
+Venue details & Toss Winner : Detailed and accurate information about the match venue,and toss winner and their decision.
 
-Comparison Tools: Compare players and teams across different parameters.
+<img src="p2.png" alt="Match Analysis" width="500"/>
 
-Predictive Insights (if implemented): Win predictions using historical data and current performance.
+Player Bowling Carrer Analysis: Detailed Analysis of each player bowling carrer across all the Formats.
+
+<img src="p5.png" alt="Match Analysis" width="500"/>
+
+Player Batting Carrer Analysis: Detailed Analysis of each player batting carrer across all the Formats.
+
+<img src="p4.png" alt="Match Analysis" width="500"/>
 
 🧩 Data Sources
 
