@@ -11,7 +11,7 @@ Player Generic summary : Get Generic Summary of the Player Through Search Bar,al
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img src="p1.png" alt="Match Analysis" width="500"/>
+<img src="p7.png" alt="Match Analysis" width="500"/>
 
 Player Whole Career Summary : Get Relevant Inforation about the Player's Debut Match and His Last Match Along With dates.
 
