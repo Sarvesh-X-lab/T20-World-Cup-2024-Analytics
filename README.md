@@ -35,13 +35,9 @@ Player Batting Carrer Analysis: Detailed Analysis of each player batting carrer 
 
 🧩 Data Sources
 
-ICC official match statistics
-
 Player performance datasets (e.g., Cricinfo, Kaggle)
 
-Historical T20 World Cup data for context
-
-(Please update this section with your actual data sources)
+RapidAPI,Cricbuzz
 
 🛠️ Technologies Used
 
