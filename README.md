@@ -77,7 +77,7 @@ If you’d like to contribute (e.g., update data, add visuals, or build predicti
 📬 Contact
 
 For suggestions or queries, please reach out at:
-LinkedIn: linkedin.com/in/sarvesh-chavan
+LinkedIn: [Sarvesh Chavan](linkedin.com/in/sarvesh-chavan)
 
 Note :- Every Thing In the Project Is Dynamic and Can be filtered Accordingly along from player Details to Match Details.
 
