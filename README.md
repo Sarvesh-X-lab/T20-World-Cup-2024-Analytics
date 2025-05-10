@@ -82,3 +82,12 @@ If you’d like to contribute (e.g., update data, add visuals, or build predicti
 
 For suggestions or queries, please reach out at:
 LinkedIn: linkedin.com/in/sarvesh-chavan
+
+Note :- Every Thing In the Project Is Dynamic and Can be filtered Accordingly along from player Details to Match Details.
+
+TO DOWNLOAD THE PROJECT :-
+
+[Download T20 World Project.pbix](https://drive.google.com/file/d/1U4U9c5_zmMCFWEUb2TkFC2GK2IRFomp4/view?usp=sharing)
+
+
+
