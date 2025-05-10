@@ -13,7 +13,7 @@ Player Insights: Runs scored, wickets taken, strike rates, and economy rates.
 
 Match-by-Match Breakdown: Detailed analysis of each match with filters by team, date, venue.
 
-![Match-by-Match Breakdown](assets/match-breakdown.png)
+![Match-by-Match Breakdown](p1.png)
 
 Comparison Tools: Compare players and teams across different parameters.
 
