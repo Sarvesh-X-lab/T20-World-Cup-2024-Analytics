@@ -3,6 +3,8 @@
 
 This Power BI project delivers insightful visual analytics for the ICC Men's T20 World Cup 2024, covering player performance, team statistics, match results, and predictive insights. It is designed for cricket fans, analysts, and decision-makers who want to explore the tournament through interactive dashboards.
 
+---
+
 **📊 Features**
 
 Player Generic summary : Get Generic Summary of the Player Through Search Bar,also as a tooltip when you hover over the player image.
