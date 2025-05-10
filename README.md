@@ -1,5 +1,5 @@
 
-🏏 T20 World Cup 2024 Analytics
+🏏T20 World Cup 2024 Analytics
 This Power BI project delivers insightful visual analytics for the ICC Men's T20 World Cup 2024, covering player performance, team statistics, match results, and predictive insights. It is designed for cricket fans, analysts, and decision-makers who want to explore the tournament through interactive dashboards.
 
 📊 Features
@@ -12,6 +12,7 @@ Player Insights: Runs scored, wickets taken, strike rates, and economy rates.
 Match-by-Match Breakdown: Detailed analysis of each match with filters by team, date, venue.
 
 ![Match-by-Match Breakdown](assets/match-breakdown.png)
+
 Comparison Tools: Compare players and teams across different parameters.
 
 Predictive Insights (if implemented): Win predictions using historical data and current performance.
